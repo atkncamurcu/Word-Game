@@ -1926,9 +1926,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -5129,6 +5129,18 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
+
+react-native-custom-keyboard-kit@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-custom-keyboard-kit/-/react-native-custom-keyboard-kit-1.0.2.tgz#5fa463b1aae4564f82880d267ab362061e5a5da1"
+  integrity sha512-dknh7Rr6TKVsEYP7RJjE1HKjlmRNABhfZJf914JeAZhN0NGTTLkrGtTstJ51I+MBorgFlhDN8RSqKIzA0kQcgA==
+  dependencies:
+    prop-types "^15.6.2"
+
+react-native-custom-keyboard@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-custom-keyboard/-/react-native-custom-keyboard-1.0.4.tgz#470d96fd1c7f5251a59b69dd84cdf8688a4577cb"
+  integrity sha512-JX9XYPZIoxyG6nj1b9udTmiPuh3sfepIA90fsJ3HqLtt4bqz6MR6MYHCluzuSDyQx+2ZnhzMAjVbldOkY8Jgkg==
 
 react-native@0.60.4:
   version "0.60.4"
